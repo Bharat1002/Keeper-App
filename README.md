@@ -1,6 +1,7 @@
 # Keeper-App
 
-This is a simple Notes app made with react.
+This is a Notes app made with react.  
+User Can Create Notes and able to delete it.
 
 ## Setup
 clone the repo in your directory
@@ -18,3 +19,6 @@ Start the react app with npm start to run the app in browser
 ```
 npm start
 ```
+
+###Snapshot of UI
+![Keeper App](public/Screenshot/homepage.png)
