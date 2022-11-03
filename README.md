@@ -20,5 +20,5 @@ Start the react app with npm start to run the app in browser
 npm start
 ```
 
-###Snapshot of UI
+### Snapshot of UI
 ![Keeper App](public/Screenshot/homepage.png)
